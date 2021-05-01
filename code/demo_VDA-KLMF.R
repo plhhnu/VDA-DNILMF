@@ -2,7 +2,7 @@
 ## [1] Predicting drug-target interactions by dual-network integrated logistica matrix factorization.
 
 
-## setwd("YourDir\\VDA-DNILMF")
+## setwd("YourDir\\VDA-KLMF")
 library(Rcpp)
 # current data set name
 db <- 'vd'
