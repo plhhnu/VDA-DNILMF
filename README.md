@@ -11,7 +11,7 @@ How To Run:
 
 (2) setwd("dir including source codes")
 
-(3) source("demo_VDA-DNILMF.R") ## vd data was used as an example.
+(3) source("demo_VDA-KLMF.R") ## vd data was used as an example.
 
 These codes were tested on Windows 7, but should also work on Linux.
 
