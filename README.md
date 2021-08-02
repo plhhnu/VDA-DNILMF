@@ -13,7 +13,7 @@ How To Run:
 
 (3) source("demo_VDA-KLMF.R") ## vd data was used as an example.
 
-These codes were tested on Windows 7, but should also work on Linux.
+These codes were tested on Windows 7 and MacBook Pro, but should also work on Linux.
 
 For any problem about these codes, please feel free to contact Xiongfei Tian at: txfhut@163.com.
 
