@@ -1,6 +1,6 @@
 # VDA-KLMF
 
-2021-04-19
+2021-08-02
 
 
 The R codes were used to predict virus-drug association (VDA) by the proposed dual-network integrated logistic matrix factorization. And the code is taken from Hao et al. [1]. 
